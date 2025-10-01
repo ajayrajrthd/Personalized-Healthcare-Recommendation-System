@@ -1,0 +1,10 @@
+item_id,title,tags,description,condition,timeslot,popularity
+1,Low-Sodium Diet Plan,"diet,heart,hypertension,morning",A 7-day low-sodium meal plan designed to support blood pressure management.,hypertension,morning,32 
+2,Beginner Cardio Routine,"exercise,heart,fitness,evening",A gentle 20-minute cardio routine to boost heart health and stamina.,hypertension,evening,44 
+3,Understanding Blood Sugar,"education,diabetes,glucose,any",A plain-English explainer on glucose control and lifestyle choices.,diabetes,any,28 
+4,Balanced Plate for Diabetes,"diet,diabetes,nutrition,afternoon",A visual guide to building meals that maintain steady blood sugar levels.,diabetes,any,52 
+5,Mindful Breathing,"stress,mental-health,any",A 5-minute guided breathing exercise to reduce stress and improve sleep.,stress,any,61 
+6,Hypertension 101,"education,hypertension,any","A short primer on causes, symptoms, and day-to-day management tips.",hypertension,any,36 
+7,Evening Walk Routine,"exercise,diabetes,evening",An easy 15-minute post-dinner walk routine that helps with digestion and glucose.,diabetes,evening,47 
+8,Sleep Hygiene Checklist,"sleep,wellness,any",Simple steps for consistent sleep times and a calmer mind.,insomnia,night,50 
+9,Desk Stretching Routine,"exercise,wellness,any",3-minute stretching sequence to reset posture and relieve stiffness.,stress,afternoon,55

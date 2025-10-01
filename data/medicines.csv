@@ -1,0 +1,21 @@
+medicine_id,name,for_condition,contraindications,common_side_effects,description
+101,MedPress,hypertension,allergy-ace,"dizziness,cough",A once-daily tablet for managing high blood pressure.
+102,GlucoMild,diabetes,allergy-metformin,"nausea,stomach-upset",Helps the body better utilize insulin.
+103,CalmRest,insomnia,allergy-antihistamine,"drowsiness,dry-mouth",Short-term sleep aid to improve sleep onset.
+104,SereniLife,stress,allergy-herbal,headache,Herbal blend that may calm the nervous system.
+105,CardioSafe,hypertension,allergy-beta,"fatigue,low-heart-rate",Supports cardiovascular health and lowers blood pressure.
+106,SugarBalance,diabetes,allergy-sulfonylurea,"hypoglycemia,nausea",Helps control blood sugar levels.
+107,SleepTide,insomnia,allergy-benzodiazepine,"drowsiness,confusion",Short-term relief for difficulty falling asleep.
+108,NeuroCalm,anxiety,allergy-ssri,"nausea,insomnia",May reduce anxiety symptoms and promote relaxation.
+109,LipoGuard,hyperlipidemia,allergy-statin,"muscle-pain,liver-enzyme-rise",Lowers cholesterol and triglyceride levels.
+110,AsthmaClear,asthma,allergy-inhaler,"throat-irritation,cough",Bronchodilator for short-term asthma symptom relief.
+111,AllerFree,allergy,allergy-antihistamine,"dry-mouth,drowsiness",Reduces seasonal allergy symptoms like sneezing and runny nose.
+112,PainAway,headache,allergy-nsaid,"stomach-upset,dizziness",Relieves mild to moderate pain and headaches.
+113,DigestEase,indigestion,allergy-antacid,"constipation,diarrhea",Helps relieve heartburn and indigestion symptoms.
+114,JointFlex,arthritis,allergy-nsaid,"stomach-upset,joint-swelling",Supports joint mobility and reduces inflammation.
+115,ThyroBalance,thyroid,allergy-levothyroxine,"palpitations,weight-loss",Regulates thyroid hormone levels in hypothyroid patients.
+116,VitaBoost,fatigue,allergy-vitamin,"upset-stomach,headache",Daily multivitamin to support overall energy and wellness.
+117,CardioFlow,hypertension,allergy-ace,"cough,dizziness",Combination therapy for better blood pressure control.
+118,GlucoTrack,diabetes,allergy-sulfonylurea,"hypoglycemia,weight-gain",Helps stabilize blood sugar throughout the day.
+119,SleepWell,insomnia,allergy-herbal,"drowsiness,stomach-upset",Natural sleep aid for improving sleep duration.
+120,CalmMind,anxiety,allergy-ssri,"nausea,insomnia",Supports emotional balance and reduces mild anxiety symptoms.
